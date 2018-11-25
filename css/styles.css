@@ -1,0 +1,126 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+
+}
+
+h1{
+  color: #66BFBF;
+  margin-top: 50px;
+  font-size: 90px;
+  font-family: 'Berkshire Swash', cursive;
+}
+h2{
+  color: #66BFBF;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+}
+
+h3{
+color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.top-container{
+background-color:#E4F9F5;
+position: relative;
+padding-top: 200px;
+}
+.kot{
+  position: fixed;
+  height:50px;
+  width: 40%;
+  margin-left: 950px;
+  background-color: white;
+}
+.bar{
+  position: fixed;
+  background-color:#E4F9F5;
+  height:50px;
+  width: 20;
+  text-align: center;
+
+}
+table{
+
+  text-align: center;
+}
+.latt{
+  float: left;
+  position: relative;
+
+}
+hr{
+  border: dotted blue 6px;
+  border-bottom: none;
+  width: 4%;
+}
+.sabr{
+  background-color: #f44336;
+    color: white;
+    margin-left: 450px;
+    text-align: center;
+    text-decoration: none;
+    padding-left: 30px;
+    padding-right:30px;
+padding-top: 16px;
+padding-bottom: 16px;
+    display: inline-block;
+    font-size: 15px;
+}
+a:hover, a:active {
+    background-color: red;
+}
+.kill{
+  width: 30%;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.middle-container{
+margin: 100px 0;
+
+}
+
+.bottom-container{
+
+
+}
+
+.skill-row{
+width: 50%;
+margin: 100px auto 100px auto;
+text-align: left;
+line-height: 2;
+}
+
+.fu{
+  position: absolute;
+}
+.codac{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.codac1{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+.puss{
+  position: absolute;
+  left: 900px;
+  top: 150px;
+}
+.om{
+  position: relative;
+
+}
+.se{
+  position: absolute;
+  left: 425px;
+  top: 20px ;
+
+}
